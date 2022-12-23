@@ -8,6 +8,7 @@ Violation Dataset Download: Download data of Violations in NYC from 2022 to 2023
 ## Precition System
 Input Your Parking Street Name, County, Time of Parking and Day of the Week, the system will predict the potential violation type and the fine. 
 Install the package in requirements.txt first, run app.py to start the system
+![Front-end template](Frontend_Template.jpg)
 
 ## Data Processing
 The data cleaning and mapping violation to geographical location is in main.ipynb file, producing "nyc-merged-data-all.csv" file for further process.
