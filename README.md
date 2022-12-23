@@ -12,4 +12,4 @@ Install the package in requirements.txt first, run app.py to start the system
 ## Data Processing
 The data cleaning and mapping violation to geographical location is in main.ipynb file, producing "nyc-merged-data-all.csv" file for further process.
 
-![Mapping result template](./Time_Series_Generated/2022-07-01.png)
+![Mapping result template](./Data/Time_Series_Generated/2022-07-01.png)
